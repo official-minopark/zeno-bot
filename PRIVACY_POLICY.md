@@ -1,6 +1,6 @@
 # 제노(ZENO) 개인정보 처리방침
 
-최종 수정일: 2026년 8월 5일
+최종 수정일: 2026년 10월 26일
 
 디스코드 봇 **제노(ZENO)**(이하 "봇")는 아래와 같이 최소한의 정보만 수집·처리합니다.
 
@@ -45,4 +45,4 @@
 
 ## 8. 문의
 - GitHub: [github.com/official-minopark](https://github.com/official-minopark)
-- YouTube: [미노](https://www.youtube.com/@official_minopark)
+- MN : mniaiv.com(지원 예정)
