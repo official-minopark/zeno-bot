@@ -1,6 +1,6 @@
 # 제노(ZENO) 이용약관
 
-최종 수정일: 2026년 8월 5일
+최종 수정일: 2026년 10월 26일
 
 ## 1. 개요
 본 약관은 디스코드 봇 **제노(ZENO)**(이하 "봇")의 이용에 관한 조건을 정합니다.
@@ -36,4 +36,4 @@
 ## 8. 문의
 봇 관련 문의, 오류 제보, 데이터 삭제 요청 등은 아래 채널로 연락해 주세요.
 - GitHub: [github.com/official-minopark](https://github.com/official-minopark)
-- YouTube: [미노](https://www.youtube.com/@official_minopark)
+- MN : mniaiv.com(지원 예정)
